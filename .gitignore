@@ -10,7 +10,6 @@ sage-plots-for*
 *.log
 *.nav
 *.out
-*.pdf
 *.pyc
 *.sage
 *.sout
